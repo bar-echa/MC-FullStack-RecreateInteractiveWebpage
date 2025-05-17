@@ -5,3 +5,17 @@ body {
   padding: 50px;
   margin: 0;
 }
+header h1 {
+    color: red;
+}
+h2{
+    font-size: small;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+div h3{
+    color: green;
+    font-size: small;
+}
